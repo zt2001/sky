@@ -1989,7 +1989,7 @@
   31: function(t, e, o) {},
   32: function(t, e, o) {},
   70: function(t, e, o) {
-    t.exports = o.p + 'static/img/bg.d24257d1.jpg'
+    t.exports = o.p + 'static/img/24598824A340165E6E9353C0678947C.jpg'
   },
   71: function(t, e, o) {
     o(72), (t.exports = o(129))
